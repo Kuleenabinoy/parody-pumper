@@ -38,7 +38,7 @@ THEN I am presented with an appropriate response.
 WHEN I come back to the application after exiting,
 THEN I have local storage that saves my previous searches.
 ```
-
+## LINKS
 [Link to deployed site](https://kuleenabinoy.github.io/parody-pumper/)
 
 ![screenshot](./assets/images/Image1.png)
