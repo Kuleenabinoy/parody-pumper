@@ -1,4 +1,5 @@
 # Parody-pumper
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 Lyric app
 Choose a song, change the lyrics that rhyme with another word with word API 
 
